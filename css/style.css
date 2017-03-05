@@ -321,13 +321,13 @@
 					background: #7fb7d2;
 				}
 
-			.icon.circle.fa-facebook {
-				background: #7490c3;
+			.icon.circle.fa-medium {
+				background: #02b875;
 				color: white;
 			}
 
-				.icon.circle.fa-facebook:hover {
-					background: #829bc9;
+				.icon.circle.fa-medium:hover {
+					background: #0cc783;
 				}
 
 			.icon.circle.fa-google-plus {
