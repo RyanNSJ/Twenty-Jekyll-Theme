@@ -914,7 +914,7 @@
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
 		background-image: url(images/overlay.png), url(../images/banner5.JPG);
-    		background-position: bottom center;
+    		background-position: 50%;
     		background-repeat: repeat, no-repeat;
     		background-size: auto, cover;
 		color: white;
