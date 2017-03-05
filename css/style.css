@@ -357,6 +357,14 @@
 				.icon.circle.fa-dribbble:hover {
 					background: #df93b8;
 				}
+			.icon.circle.fa-linkedin {
+				background: #3fb1a3;
+				color: white;
+			}
+
+				.icon.circle.fa-linkedin:hover {
+					background: #5cd0c1;
+				}
 
 		.icon.featured {
 			cursor: default;
