@@ -357,6 +357,14 @@
 				.icon.circle.fa-dribbble:hover {
 					background: #df93b8;
 				}
+			.icon.circle.fa-linkedin {
+				background: #3fb1a3;
+				color: white;
+			}
+
+				.icon.circle.fa-linkedin:hover {
+					background: #5cd0c1;
+				}
 
 		.icon.featured {
 			cursor: default;
@@ -531,8 +539,8 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #efb408;
+			border-color: #efb408;
 			color: white !important;
 		}
 
@@ -540,8 +548,8 @@
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			.button.special:hover {
-				background: #96dad1 !important;
-				border-color: #96dad1 !important;
+				background: #f5c12b !important;
+				border-color: #f5c12b !important;
 			}
 
 		input[type="button"].fit,
