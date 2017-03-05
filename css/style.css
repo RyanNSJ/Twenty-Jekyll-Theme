@@ -10,7 +10,7 @@
 /* Basic */
 
 	body, #skel-layers-wrapper {
-		background: #2f2521;
+		background: #f3f6fa;
 	}
 
 	body.is-loading * {
@@ -920,7 +920,7 @@
 /* Footer */
 
 	#footer {
-		background: #2f2521;
+		background: #e8eef4;
 		color: #7c8081;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
