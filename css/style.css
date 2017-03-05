@@ -47,6 +47,11 @@
 		a:hover {
 			border-bottom-color: transparent;
 		}
+	.img-circle {
+    border-radius: 500%;
+    width: 180px;
+    height: 180px
+}
 
 	strong, b {
 		font-weight: 400;
