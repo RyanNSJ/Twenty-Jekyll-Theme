@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project 2"
-date:   2014-08-31 14:36:23
+date:   2017-08-31 14:36:23
 permalink: /project-2.html
 ---
 <span class="image featured"><img src="{{ site.baseurl }}/images/pic01.jpg" alt=""></span>
