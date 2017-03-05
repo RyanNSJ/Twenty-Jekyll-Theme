@@ -1,5 +1,5 @@
-# Waystation
+#Waystation
 
 A personal portfolio project by Ryan Ng
 
-Design:HTML5 UP
+Design by HTML5 UP
