@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What The Hack
-date: {}
+date: {2014-09-07}
 published: true
 ---
 
