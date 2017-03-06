@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Morbi a Semper"
-date:   2014-08-31 14:36:23
+title: Morbi a Semper
+date: 2014-08-31T14:36:23.000Z
+published: true
 ---
 
 <span class="image featured"><img src="/images/pic03.jpg" alt=""></span>
