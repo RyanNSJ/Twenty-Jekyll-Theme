@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Project 2"
-date:   2017-08-31 14:36:23
-permalink: /project-2.html
+title: Heat Alarmband
+date: 2016-12-18T14:36:23.000Z
+permalink: /heat-alarmband.html
+published: true
 ---
 <span class="image featured"><img src="{{ site.baseurl }}/images/pic01.jpg" alt=""></span>
 Duis in purus sit amet elit ullamcorper venenatis vel a diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec dictum quam id ultricies dapibus. Donec rutrum pellentesque nisl, in bibendum erat imperdiet et. Maecenas eros lorem, dignissim in eros ut, consequat eleifend ante. Duis leo tortor, porttitor non ex ut, varius consectetur purus. Mauris vel erat risus. Nam convallis, lorem et tempus efficitur, nulla tortor efficitur sapien, ut pretium nisl turpis at purus. Nulla dui risus, suscipit nec tellus ac, aliquam finibus mi. Suspendisse accumsan, nisl a aliquet hendrerit, massa metus volutpat libero, et mollis lectus mauris et justo. Ut vitae est ut ligula sollicitudin blandit. Quisque egestas eleifend tortor, in finibus ex. Donec non orci quis odio porttitor mattis.
