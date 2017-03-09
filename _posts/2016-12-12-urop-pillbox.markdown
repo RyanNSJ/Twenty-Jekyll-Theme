@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Undergraduate Research - Smart Pillbox
+title: Smart Pillbox - Undergraduate Research
 date: 2016-12-12T14:36:23.000Z
 permalink: /urop-smart-pillbox.html
 published: true
