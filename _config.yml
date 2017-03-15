@@ -12,3 +12,4 @@ github_username:  RyanNSJ
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
