@@ -3,6 +3,7 @@ layout: post
 title: What The Hack
 date: 2017-06-11
 published: true
+permalink: /whatthehack.html
 ---
 
 <span class="image featured"><img src="{{ site.baseurl }}/images/pic03.jpg" alt=""></span>
