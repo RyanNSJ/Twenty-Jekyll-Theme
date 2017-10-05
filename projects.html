@@ -12,7 +12,8 @@ layout: default
           {% for post in site.posts %}
             <li class="wrapper">
               <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-                <img src="/waystation/images/{{ post.title }}/pic01.jpg" alt>
+                <img src="/waystation/images/{{ post.title }}/pic01.jpg";
+                     style='height: 100%; width: 100%; object-fit: contain'/ alt>
                 {{ post.excerpt }}
                 <section class="special">
                     <ul class="buttons">
